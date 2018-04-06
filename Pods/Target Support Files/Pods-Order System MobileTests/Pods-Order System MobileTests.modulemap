@@ -1,0 +1,6 @@
+framework module Pods_Order_System_MobileTests {
+  umbrella header "Pods-Order System MobileTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
